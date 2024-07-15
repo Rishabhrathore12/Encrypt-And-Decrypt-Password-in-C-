@@ -4,3 +4,4 @@ Object-Oriented Programming (OOP): Utilized OOP principles to design a modular c
 
 MySQL Database Integration: Integrated MySQL for persistent storage and retrieval of encrypted passwords, employing secure SQL queries to safeguard sensitive user data.
 
+Command-Line Interface (CLI): Developed an interactive CLI in C++ that allows users to securely sign up and log in, incorporating robust error handling and input validation without the need for a graphical user interface.
